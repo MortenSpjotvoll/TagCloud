@@ -6,6 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<PropertyGroup>
+		<PackageId>NuGet.Workflow</PackageId>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/MortenSpjotvoll/TagCloud</RepositoryUrl>
+	</PropertyGroup>
+
   <ItemGroup>
 	  <PackageReference Include="LemmaSharp-std" Version="1.0.1" />
 	  <PackageReference Include="LemmaSharpPreBuilt-std" Version="1.0.1" />
