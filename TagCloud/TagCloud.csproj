@@ -7,7 +7,7 @@
   </PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>NuGet.Workflow</PackageId>
+		<PackageId>Sysopoly.TagCloud</PackageId>
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/MortenSpjotvoll/TagCloud</RepositoryUrl>
 	</PropertyGroup>
