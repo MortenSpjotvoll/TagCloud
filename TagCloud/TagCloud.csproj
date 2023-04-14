@@ -11,10 +11,33 @@
 		<PackageId>Sysopoly.TagCloud</PackageId>
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/MortenSpjotvoll/TagCloud</RepositoryUrl>
+		<Title>Sysopoly.TagCloud</Title>
+		<Authors>Sysopoly</Authors>
+		<Company>Sysopoly</Company>
+		<Description>An updated .NET tag-cloud computation library based on LemmaSharp.</Description>
+		<Copyright>MIT</Copyright>
+		<PackageProjectUrl>https://github.com/MortenSpjotvoll/TagCloud</PackageProjectUrl>
+		<PackageIcon>TagCloud.png</PackageIcon>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageTags>word cloud, word, words, cloud, tag, tags, tag cloud, cloud</PackageTags>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Include="..\README.md">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
 
   <ItemGroup>
 	  <PackageReference Include="LemmaSharp-std" Version="1.0.1" />
 	  <PackageReference Include="LemmaSharpPreBuilt-std" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="images\TagCloud.png" Link="images\TagCloud.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 </Project>
