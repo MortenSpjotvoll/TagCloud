@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwnUgad8ep2lqvvWYBBITdPJuaAjKdznR91uAfycWOmcFJoqZG00M396PHls9hKtgTfsYXPceS1pV3QRlBjOCw==",
+  "success": true,
+  "projectFilePath": "C:\\DevPersonal\\TagCloud\\TagCloud\\TagCloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\lemmasharp-std\\1.0.1\\lemmasharp-std.1.0.1.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\lemmasharpprebuilt-std\\1.0.1\\lemmasharpprebuilt-std.1.0.1.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\lzma-sdk\\18.1.0\\lzma-sdk.18.1.0.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\morten.spjotvoll\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

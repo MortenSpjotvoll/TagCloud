@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagCloud", "TagCloud\TagCloud.csproj", "{20F26165-4DD3-4F1C-9085-58854ECCA606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagCloud.Tests", "TagCloud.Tests\TagCloud.Tests.csproj", "{2FD315A5-BACF-4A68-A79A-8762EFDD2539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F26165-4DD3-4F1C-9085-58854ECCA606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F26165-4DD3-4F1C-9085-58854ECCA606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F26165-4DD3-4F1C-9085-58854ECCA606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F26165-4DD3-4F1C-9085-58854ECCA606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD315A5-BACF-4A68-A79A-8762EFDD2539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD315A5-BACF-4A68-A79A-8762EFDD2539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD315A5-BACF-4A68-A79A-8762EFDD2539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD315A5-BACF-4A68-A79A-8762EFDD2539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941D7ABC-79E4-4752-9303-F8DEA997A4A7}
+	EndGlobalSection
+EndGlobal
